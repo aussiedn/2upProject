@@ -1,0 +1,107 @@
+User: Andrew Flip: Tails Heads
+User: Jordan Flip: Heads HeadsYou have selected Tails & Heads
+User: Matthew Flip: Tails TailsUser Selection: You have selected Heads & Heads
+User: Chris Flip: Heads Tails User Selection: You have selected Tails & Heads
+User: Matthew Flip: Tails Tails User Selection: You have selected Heads & Tails
+User: Arther Flip: Tails Tails User Selection: You have selected Heads & Tails
+User: Arther Flip: Tails Heads User Selection: You lose, Play again??
+User: Arther Flip: Tails Heads User Selection: You lose, Play again??
+User: Arther Flip: Tails Heads User Selection: You lose, Play again??
+User: Arther Flip: Tails Tails User Selection: You lose, Play again??
+User: Arther Flip: Heads Tails User Selection: You lose, Play again??
+User:  Flip: Tails HeadsUser Selection: You have selected Heads & Tails
+User: Adam Flip: Tails HeadsUser Selection: You have selected Heads & Tails Win/Loss: User Results
+User: Adam Flip: Heads TailsUser Selection: You have selected Tails & Heads Win/Loss: You lose, Play again??
+User: Jordan |Flip: Heads Heads |User Selection: You have selected Heads & Heads |Win/Loss: 
+User: Jordan |Flip: Tails Tails |User Selection: You have selected Heads & Heads |Win/Loss: You Win!!, Play again??
+User: Jordan |Flip: Tails Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose, Play again??
+User: Jordan |Flip: Tails Heads |User Selection: You have selected Heads & Heads |Win/Loss: You lose, Play again??
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose, Play again??
+User: Nick |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose, Play again??
+User: Nick |Flip: Tails Heads |User Selection: You have selected Tails & Heads |Win/Loss: You Win!!, Play again??
+User: Arther |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Arther |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Arther |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Matthew |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Matthew |Flip: Tails Heads |User Selection: You have selected Tails & Heads |Win/Loss: You Win!!
+User: Matthew |Flip: Heads Heads |User Selection: You have selected Regular Contrast |Win/Loss: You lose
+User: Matthew |Flip: Tails Heads |User Selection: You have selected Regular Contrast |Win/Loss: You Win!!
+User: Nick |Flip: Tails Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: Matthew |Flip: Tails Tails |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: Matthew |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Jordan |Flip: Tails Tails |User Selection: Name submitted |Win/Loss: You lose
+User: Jordan |Flip: Tails Heads |User Selection: Name submitted |Win/Loss: You lose
+User: Jordan |Flip: Tails Heads |User Selection: Name submitted |Win/Loss: You lose
+User: Jordan |Flip: Heads Heads |User Selection: Name submitted |Win/Loss: You Win!!
+User: Nicole |Flip: Tails Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Niki |Flip: Tails Heads |User Selection: You have selected Tails & Heads |Win/Loss: You Win!!
+User: Niki |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User:  |Flip: Heads Heads |User Selection: Win/Loss Panel |Win/Loss: 
+User:  |Flip: Tails Tails |User Selection: Win/Loss Panel |Win/Loss: 
+User:  |Flip: Tails Heads |User Selection: Win/Loss Panel |Win/Loss: 
+User:  |Flip: Heads Tails |User Selection: Win/Loss Panel |Win/Loss: 
+User: galen |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Tails Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: galen |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!
+User: galen |Flip: Tails Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: Matthew T |Flip: Heads Tails |User Selection: Name submitted |Win/Loss: You Win!!
+User: Matthew T |Flip: Tails Tails |User Selection: Name submitted |Win/Loss: You lose
+User: Matthew T |Flip: Tails Tails |User Selection: Name submitted |Win/Loss: You lose
+User: Matthew T |Flip: Tails Heads |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Matthew T |Flip: Tails Heads |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Matthew T |Flip: Heads Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Matthew T |Flip: Heads Heads |User Selection: You have selected Heads & Heads |Win/Loss: You Win!!
+User: Matthew |Flip: Tails Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Matthew |Flip: Heads Heads |User Selection: Name submitted |Win/Loss: You Win!!
+User: Matthew |Flip: Heads Heads |User Selection: Name submitted |Win/Loss: You Win!!
+User: Matthew |Flip: Tails Heads |User Selection: Name submitted |Win/Loss: You lose
+User: DARELL |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: DARELL |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!
+User: DARELL |Flip: Heads Heads |User Selection: You have selected Heads & Heads |Win/Loss: You Win!!
+User:  |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User:  |Flip: Tails Heads |User Selection: You have selected Tails & Heads |Win/Loss: You Win!!
+User: Nick |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Nick |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Jordan |Flip: Heads Heads |User Selection: Name submitted |Win/Loss: You Win!!
+User: Jordan |Flip: Heads Tails |User Selection: Name submitted |Win/Loss: You lose
+User: Jordan |Flip: Tails Heads |User Selection: Name submitted |Win/Loss: You lose
+User: Jordan |Flip: Heads Heads |User Selection: Name submitted |Win/Loss: You Win!!
+User: Jordan |Flip: Tails Heads |User Selection: Name submitted |Win/Loss: You lose
+User:  |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Matthew |Flip: Heads Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: Matthew |Flip: Heads Tails |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: nicole |Flip: Tails Heads |User Selection: You have selected Heads & Heads |Win/Loss: You lose
+User: nicole |Flip: Heads Heads |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: nicole |Flip: Tails Heads |User Selection: You have selected Tails & Heads |Win/Loss: You Win!!
+User: nicole |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: nicole |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: nicole |Flip: Heads Heads |User Selection: You have selected Tails & Tails |Win/Loss: You lose
+User: nicole |Flip: Tails Tails |User Selection: You have selected Tails & Tails |Win/Loss: You Win!!
+User: nicole |Flip: Heads Tails |User Selection: You have selected Tails & Tails |Win/Loss: You lose
+User: Matthew |Flip: Heads Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: Matthew |Flip: Heads Heads |User Selection: You have selected Heads & Heads |Win/Loss: You Win!!
+User: Matthew |Flip: Tails Tails |User Selection: You have selected Tails & Tails |Win/Loss: You Win!!
+User:  |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!
+User:  |Flip: Heads Heads |User Selection: You have selected Heads & Heads |Win/Loss: You Win!!
+User:  |Flip: Heads Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User:  |Flip: Tails Heads |User Selection: You have selected Tails & Tails |Win/Loss: You lose
+User: Matthew |Flip: Tails Tails |User Selection: You have selected Tails & Heads |Win/Loss: You lose
+User: Matthew |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!
+User: Matthew |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!
+User: Matthew |Flip: Tails Heads |User Selection: You have selected Heads & Tails |Win/Loss: You lose
+User: Matthew |Flip: Heads Tails |User Selection: You have selected Heads & Tails |Win/Loss: You Win!!

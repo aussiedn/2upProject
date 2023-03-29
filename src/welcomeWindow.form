@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="welcomeWindow">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="9" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1185" height="506"/>
+    </constraints>
+    <properties>
+      <enabled value="false"/>
+      <foreground color="-1"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="d27f5" class="javax.swing.JLabel" binding="userName">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-59629"/>
+          <text value="Please Enter Your Name"/>
+        </properties>
+      </component>
+      <component id="9165c" class="javax.swing.JRadioButton" binding="boldButton">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Bold Text"/>
+        </properties>
+      </component>
+      <component id="a2643" class="javax.swing.JRadioButton" binding="regularContrastRadioButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Regular Contrast"/>
+        </properties>
+      </component>
+      <component id="70490" class="javax.swing.JRadioButton" binding="regularTextB">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Regular Text"/>
+        </properties>
+      </component>
+      <component id="1f187" class="javax.swing.JRadioButton" binding="highContrastB">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="High Contrast"/>
+        </properties>
+      </component>
+      <component id="f68fd" class="javax.swing.JButton" binding="FLIPButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="1" row-span="4" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-918017"/>
+          <text value="FLIP"/>
+        </properties>
+      </component>
+      <component id="bb60" class="javax.swing.JTextField" binding="userNameEntryBox">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="0"/>
+        </properties>
+      </component>
+      <grid id="e63fd" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="4" vsize-policy="3" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="true"/>
+        </constraints>
+        <properties>
+          <background color="-51505"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="6d233" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="36" style="1"/>
+              <horizontalAlignment value="0"/>
+              <text value="Welcome To 2UP A Game Of Chance .tm"/>
+              <verticalAlignment value="1"/>
+              <verticalTextPosition value="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="e4e1c" class="javax.swing.JRadioButton" binding="headsTailsButton">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Heads|Tails"/>
+        </properties>
+      </component>
+      <component id="adbc" class="javax.swing.JRadioButton" binding="tailsHeadsButton">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tails|Heads"/>
+        </properties>
+      </component>
+      <component id="d41a2" class="javax.swing.JRadioButton" binding="headsHeadsB">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Heads|Heads"/>
+        </properties>
+      </component>
+      <component id="90007" class="javax.swing.JRadioButton" binding="tailsTailsB">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tails|Tails"/>
+        </properties>
+      </component>
+      <component id="b1705" class="javax.swing.JLabel" binding="randomOutcomeLabel">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="20"/>
+          <foreground color="-11683048"/>
+          <text value="Flip Results"/>
+        </properties>
+      </component>
+      <component id="c1fe4" class="javax.swing.JLabel" binding="resultsLabel">
+        <constraints>
+          <grid row="7" column="2" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="20"/>
+          <foreground color="-11683048"/>
+          <text value="Win/Loss Panel"/>
+        </properties>
+      </component>
+      <component id="56297" class="javax.swing.JButton" binding="submitB">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Submit Name"/>
+        </properties>
+      </component>
+      <component id="19c81" class="javax.swing.JLabel" binding="winLossPanel">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="20"/>
+          <foreground color="-11683048"/>
+          <horizontalAlignment value="0"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
